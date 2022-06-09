@@ -51,7 +51,6 @@ def add(student_id, trid, distance, run_time, headers=None):
 def run(student_id, distance, run_time):
 
     headers = {
-        'Authorization': 'ST-1919810-B2HzKSQjiexnuejqIF1Oc-cas01.example.org',
         'Content-Type': 'application/x-www-form-urlencoded',
         'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 9; CMR-W09 Build/HUAWEICMR-W09)'
     }

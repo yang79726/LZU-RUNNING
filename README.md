@@ -1,7 +1,7 @@
 # LZU-RUNNING
 兰大悦跑
 
-`lzurun.py`中的`run()`函数可实现模拟悦跑
+调用`lzurun.py`中的`run()`函数可实现模拟悦跑
 
 `student_id`参数是你的校园卡号
 
